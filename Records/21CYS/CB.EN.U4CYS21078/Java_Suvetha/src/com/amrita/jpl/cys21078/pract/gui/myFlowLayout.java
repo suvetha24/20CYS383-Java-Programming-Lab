@@ -11,9 +11,6 @@ import javax.swing.*;
 public class myFlowLayout extends JFrame {
     /**
      * This is the constructor for the myFlowLayout class
-     * @param title The title of the JFrame
-     * @param width The width of the JFrame
-     * @param height The height of the JFrame
      */
     public myFlowLayout() {
         // Set the title and size of the JFrame

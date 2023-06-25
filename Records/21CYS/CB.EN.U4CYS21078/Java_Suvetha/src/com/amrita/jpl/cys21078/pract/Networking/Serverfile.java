@@ -40,7 +40,7 @@ class FileTransferServer extends FileServerTransfer {
         }
     }
 
-    @Override
+
     void sendFile(String filename) {
         // Not implemented for the server
     }
